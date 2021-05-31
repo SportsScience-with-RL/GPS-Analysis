@@ -1,4 +1,4 @@
-# Projet de suivi sur une équipe sportive
+# Projet de suivi des données GPS d'une équipe de rugby
 
 ## Présentation du projet
 
