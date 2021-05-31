@@ -8,6 +8,10 @@ La base de données est celle d'une équipe de Super Rugby avec laquelle j'ai é
 La base de données manque de précisions : joueurs en réathlétisation, les séances et matchs ne sont pas découpés en séquences. J'ai pu retrouver les dates des matchs mais le nombre de jours d'entrainements entre les matchs. Par défaut les semaines sont du lundi au dimanche.
 
 ## Fiche récapitulative
+![Capture](https://user-images.githubusercontent.com/77809335/120209948-3bda9700-c1fd-11eb-91dd-95ac779bcf94.JPG) 
+![Capture2](https://user-images.githubusercontent.com/77809335/120210162-793f2480-c1fd-11eb-9b60-5f5c39a03798.JPG)
+![Capture3](https://user-images.githubusercontent.com/77809335/120210296-9f64c480-c1fd-11eb-82f1-f68b2970ed5d.JPG) 
+![Capture4](https://user-images.githubusercontent.com/77809335/120210360-b1466780-c1fd-11eb-8388-8437622d7728.JPG)
 
 ## Continuité
 
