@@ -16,6 +16,10 @@ La base de données manque de précisions : joueurs en réathlétisation, les s�
 
 ![Capture4](https://user-images.githubusercontent.com/77809335/120210360-b1466780-c1fd-11eb-8388-8437622d7728.JPG)
 
+## Interprétation
+
+Je garde l'interprétration à ma discrétion. Cependant je peux constater qu'un principe important n'a pas été respecté sur la saison, à savoir s'entrainer plus, plus souvent. Je suis en capacité d'expliquer en partie certains résultats. Néanmoins les données quantitatives à elles seules ne permettent pas de tirer des conclusions, il est essentiel de procéder à une analyse de données qualitatives en parallèle.
+
 ## Continuité
 
 Procéder à une analyse plus fine en découpant les séquences d'entrainements et de matchs en live (beaucoup plus intéressant pour le m/min).
