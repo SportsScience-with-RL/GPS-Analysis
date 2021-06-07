@@ -18,7 +18,8 @@ La base de données manque de précisions : joueurs en réathlétisation, les s�
 
 ## Interprétation
 
-Je garde l'interprétration à ma discrétion. Cependant je peux constater qu'un principe important n'a pas été respecté sur la saison, à savoir s'entrainer plus, plus souvent. Je suis en capacité d'expliquer en partie certains résultats sportifs (ayant été impliqué avec l'équiper). Néanmoins les données quantitatives à elles seules ne permettent pas de tirer des conclusions, il est essentiel de procéder à une analyse de données qualitatives en parallèle.
+Je garde l'interprétration à ma discrétion. Cependant je peux constater qu'un principe important n'a pas été respecté sur la saison, à savoir s'entrainer plus, plus souvent. Ce principe permet en partie d'expliquer certains résultats sportifs (ayant été impliqué avec l'équipe). Néanmoins les données quantitatives à elles seules ne permettent pas de tirer des conclusions, et ne permettent absolument pas d'expliquer et de comprendre les variations techniques et tactiques durant la saison. 
+Il est essentiel de procéder à une analyse de données qualitatives en parallèle.
 
 ## Continuité
 
