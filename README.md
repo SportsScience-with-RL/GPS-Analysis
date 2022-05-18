@@ -24,5 +24,3 @@ Il est essentiel de procéder à une analyse de données qualitatives en parall�
 ## Continuité
 
 Procéder à une analyse plus fine en découpant les séquences d'entrainements et de matchs en live (beaucoup plus intéressant pour le m/min).
-
-Créer un dashboard avec Dash.
